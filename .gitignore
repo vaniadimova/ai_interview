@@ -12,7 +12,7 @@
 
 # testing
 /coverage
-
+/prepinterview-f3cea-firebase-adminsdk-fbsvc-db377dc736.json
 # next.js
 /.next/
 /out/
@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+.env.local
 
 # vercel
 .vercel
